@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import AddUsers from "./components/AddUsers";
 import UsersLists from "./components/UsersLists";
 
