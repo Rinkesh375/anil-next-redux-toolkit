@@ -1,2 +1,1 @@
-# anil-next-redux-toolkit
 
